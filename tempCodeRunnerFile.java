@@ -1,0 +1,1 @@
+panel.setBackground(Color.GRAY);
